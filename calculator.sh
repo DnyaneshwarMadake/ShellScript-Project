@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Test the Functions
+
 # Addition Function
 x=1+2
 
