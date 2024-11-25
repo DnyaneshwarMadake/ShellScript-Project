@@ -16,4 +16,4 @@ a=5/2
 # Multiplication Functions
 o=7*7
 
-
+#Expontial Functions
